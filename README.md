@@ -13,3 +13,13 @@ https://www.w3schools.com
 http://php.net/manual
 https://developer.mozilla.org/
 https://developer.mozilla.org/bm/docs/Web/JavaScript
+
+## Websites
+
+https://scotch.io/
+
+
+## Articles
+
+https://www.sitepoint.com/building-angular-1-5-components/
+https://johnpapa.net/angularjss-controller-as-and-the-vm-variable/
