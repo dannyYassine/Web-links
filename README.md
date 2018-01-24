@@ -12,6 +12,8 @@ Useful web links
 * http://javascriptissexy.com/12-simple-yet-powerful-javascript-tips/
 * https://davidwalsh.name/event-delegate
 
+## Javascript Testing
+* https://blog.codeship.com/mocha-js-chai-sinon-frontend-javascript-code-testing-tutorial/
 
 ## External ressources
 * http://codingheroes.io/resources/
@@ -48,3 +50,7 @@ Useful web links
 
 ## iOS
 * https://academy.realm.io/posts/nspredicate-cheatsheet/
+
+# Shell
+* https://www.shellscript.sh/hints.html
+* https://developer.apple.com/library/content/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004268-TP40003516-SW1
