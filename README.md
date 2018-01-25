@@ -27,6 +27,9 @@ Useful web links
 ## Free CSS course
 * https://cssgrid.io/
 
+## Courses
+https://ultimateangular.com/
+
 ## CSS Tools
 * http://fontello.com/
 
