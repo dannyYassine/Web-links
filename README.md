@@ -51,6 +51,8 @@ Useful web links
 
 ## iOS
 * https://academy.realm.io/posts/nspredicate-cheatsheet/
+* 
+* https://www.bignerdranch.com/blog/manual-swift-understanding-the-swift-objective-c-build-pipeline/
 
 # Shell
 * https://www.shellscript.sh/hints.html
