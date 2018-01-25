@@ -5,6 +5,7 @@ Useful web links
 * https://css-tricks.com/
 * http://cssreference.io/
 * http://fontello.com/
+* https://daneden.github.io/animate.css/
 
 ## Javscript
 * https://crockford.com/javascript/private.html
