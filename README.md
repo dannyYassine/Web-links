@@ -45,6 +45,12 @@ https://ultimateangular.com/
 ## Websites
 * https://scotch.io/
 
+## APIs to play with
+* https://www.coinapi.io/
+* https://coinmarketcap.com/api/
+* http://developer.dribbble.com/
+* https://www.apixu.com/pricing.aspx
+* https://openweathermap.org/api
 
 ## Articles
 * https://www.sitepoint.com/building-angular-1-5-components/
