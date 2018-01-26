@@ -15,6 +15,7 @@ Useful web links
 
 ## Javascript Testing
 * https://blog.codeship.com/mocha-js-chai-sinon-frontend-javascript-code-testing-tutorial/
+* http://nightwatchjs.org/
 
 ## External ressources
 * http://codingheroes.io/resources/
