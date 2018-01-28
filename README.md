@@ -14,6 +14,7 @@ Useful web links
 * https://davidwalsh.name/event-delegate
 
 ## Javascript Testing
+* https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
 * https://blog.codeship.com/mocha-js-chai-sinon-frontend-javascript-code-testing-tutorial/
 * http://nightwatchjs.org/
 
