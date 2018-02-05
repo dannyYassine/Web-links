@@ -6,6 +6,7 @@ Useful web links
 * http://cssreference.io/
 * http://fontello.com/
 * https://daneden.github.io/animate.css/
+* https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741
 
 ## Javscript
 * https://crockford.com/javascript/private.html
