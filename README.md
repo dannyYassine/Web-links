@@ -69,3 +69,6 @@ https://ultimateangular.com/
 # Shell
 * https://www.shellscript.sh/hints.html
 * https://developer.apple.com/library/content/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004268-TP40003516-SW1
+
+# BOOKS
+* https://railsware.com/blog/2017/11/23/best-node-js-books-to-master-the-technology/
