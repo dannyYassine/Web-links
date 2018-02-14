@@ -19,6 +19,7 @@ Useful web links
 * https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
 * https://blog.codeship.com/mocha-js-chai-sinon-frontend-javascript-code-testing-tutorial/
 * http://nightwatchjs.org/
+* https://www.cypress.io/
 
 ## External ressources
 * http://codingheroes.io/resources/
