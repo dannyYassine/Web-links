@@ -13,6 +13,7 @@ Useful web links
 * http://jsforallof.us/2014/07/08/var-that-this/
 * http://javascriptissexy.com/12-simple-yet-powerful-javascript-tips/
 * https://davidwalsh.name/event-delegate
+* http://exploringjs.com/es6/
 
 ## Javascript Testing
 * https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
