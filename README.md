@@ -72,5 +72,9 @@ https://ultimateangular.com/
 * https://www.shellscript.sh/hints.html
 * https://developer.apple.com/library/content/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004268-TP40003516-SW1
 
+# TALKS
+* Myth of "Real Javascript Developer" https://www.youtube.com/watch?v=Xt5qpbiqw2g
+* The power of CSS https://www.youtube.com/watch?v=IRI1H5tyEAo
+
 # BOOKS
 * https://railsware.com/blog/2017/11/23/best-node-js-books-to-master-the-technology/
