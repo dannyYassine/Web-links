@@ -15,6 +15,13 @@ Useful web links
 * https://davidwalsh.name/event-delegate
 * http://exploringjs.com/es6/
 
+## State Management
+* https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/
+* https://medium.com/@blairanderson/you-probably-dont-need-redux-1b404204a07f
+* https://angular.io/guide/component-interaction#parent-and-children-communicate-via-a-service
+* (concepts) https://medium.com/dailyjs/3-ways-to-communicate-between-angular-components-a1e3f3304ecb
+* https://www.javascriptstuff.com/component-communication/
+
 ## Javascript Testing
 * https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
 * https://blog.codeship.com/mocha-js-chai-sinon-frontend-javascript-code-testing-tutorial/
@@ -60,6 +67,10 @@ https://ultimateangular.com/
 ## Articles
 * https://www.sitepoint.com/building-angular-1-5-components/
 * https://johnpapa.net/angularjss-controller-as-and-the-vm-variable/
+
+## Front end Web
+* https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d
+* https://medium.com/@withinsight1/the-front-end-spectrum-c0f30998c9f0
 
 # Mobile
 
