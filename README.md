@@ -23,6 +23,7 @@ Useful web links
 * https://www.javascriptstuff.com/component-communication/
 * https://velesin.io/2016/05/18/communication-between-angular-1-5-components/
 * https://www.aurorasolutions.io/blog/angularjs-cross-component-communication/
+* https://www.javascriptstuff.com/component-communication/
 
 ## Javascript Testing
 * https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
