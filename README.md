@@ -24,6 +24,18 @@ Useful web links
 * https://velesin.io/2016/05/18/communication-between-angular-1-5-components/
 * https://www.aurorasolutions.io/blog/angularjs-cross-component-communication/
 * https://www.javascriptstuff.com/component-communication/
+* https://www.ctheu.com/2015/02/12/how-to-communicate-between-react-components/#my-components-are-not-directly-related
+* https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f
+
+## Service Workers
+* https://medium.com/google-developer-experts/a-new-angular-service-worker-creating-automatic-progressive-web-apps-part-2-practice-3221471269a1
+
+## Architecture ideas
+* http://www.webdeveasy.com/angularjs-data-model/
+* https://angular-2-training-book.rangle.io/handout/state-management/ngrx/component_architecture.html
+* https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+* https://www.sitepoint.com/building-angular-1-5-components/
+* https://filipbech.github.io/2015/07/Non-singleton-service-instances-in-angular/
 
 ## Javascript Testing
 * https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
