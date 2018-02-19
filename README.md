@@ -28,6 +28,7 @@ Useful web links
 * https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f
 
 ## Service Workers
+* https://developers.google.com/web/fundamentals/primers/service-workers/
 * https://medium.com/google-developer-experts/a-new-angular-service-worker-creating-automatic-progressive-web-apps-part-2-practice-3221471269a1
 
 ## Architecture ideas
