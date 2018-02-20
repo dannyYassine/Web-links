@@ -16,6 +16,7 @@ Useful web links
 * http://exploringjs.com/es6/
 
 ## State Management
+* https://scotch.io/tutorials/get-angular-1-features-in-angular-2#global-communication-with-services
 * https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/
 * https://medium.com/@blairanderson/you-probably-dont-need-redux-1b404204a07f
 * https://angular.io/guide/component-interaction#parent-and-children-communicate-via-a-service
