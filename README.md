@@ -15,6 +15,9 @@ Useful web links
 * https://davidwalsh.name/event-delegate
 * http://exploringjs.com/es6/
 
+## PHP
+* http://www.phptherightway.com/#mysql_extension
+
 ## State Management
 * https://scotch.io/tutorials/get-angular-1-features-in-angular-2#global-communication-with-services
 * https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/
