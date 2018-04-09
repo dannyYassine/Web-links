@@ -66,6 +66,9 @@ https://ultimateangular.com/
 * https://expo.io/
 * https://www.decoide.org/
 
+## Tools
+* https://flaviocopes.com/chrome-devtools-tips/
+
 ## CSS Tools
 * http://fontello.com/
 
