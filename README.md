@@ -73,6 +73,10 @@ https://ultimateangular.com/
 ## CSS Tools
 * http://fontello.com/
 
+## Fonts
+* https://stackoverflow.com/questions/11002820/why-should-we-include-ttf-eot-woff-svg-in-a-font-face
+* https://creativemarket.com/blog/the-missing-guide-to-font-formats
+
 ## Progressive web apps
 * https://developers.google.com/web/progressive-web-apps/
 
