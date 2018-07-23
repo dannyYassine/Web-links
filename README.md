@@ -18,6 +18,7 @@ Useful web links
 ## PHP
 * http://www.phptherightway.com/#mysql_extension
 * https://blog.digitalocean.com/horizontally-scaling-php-applications/
+* https://www.slideshare.net/e.zimuel/how-to-scale-php-applications
 
 ## State Management
 * https://scotch.io/tutorials/get-angular-1-features-in-angular-2#global-communication-with-services
