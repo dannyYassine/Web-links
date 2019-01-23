@@ -33,6 +33,11 @@ Useful web links
 * https://www.ctheu.com/2015/02/12/how-to-communicate-between-react-components/#my-components-are-not-directly-related
 * https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f
 
+## SSL
+* https://www.domainsatretail.com/blog/security/simplest-way-use-ssl-certificates-amazon-ec2-ubuntu-server/
+* https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04
+* https://www.youtube.com/watch?v=BzdX1C0ANig
+
 ## Service Workers
 * https://developers.google.com/web/fundamentals/primers/service-workers/
 * https://medium.com/google-developer-experts/a-new-angular-service-worker-creating-automatic-progressive-web-apps-part-2-practice-3221471269a1
