@@ -37,6 +37,7 @@ Useful web links
 * https://www.domainsatretail.com/blog/security/simplest-way-use-ssl-certificates-amazon-ec2-ubuntu-server/
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04
 * https://www.youtube.com/watch?v=BzdX1C0ANig
+* https://stackoverflow.com/questions/11621053/redirect-http-to-https-on-default-virtual-host-without-servername
 
 ## Service Workers
 * https://developers.google.com/web/fundamentals/primers/service-workers/
