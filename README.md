@@ -33,10 +33,14 @@ Useful web links
 * https://www.ctheu.com/2015/02/12/how-to-communicate-between-react-components/#my-components-are-not-directly-related
 * https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f
 
+### Apache / Ubuntu / LAMP
+* https://howtoubuntu.org/how-to-install-lamp-on-ubuntu
+
 ## SSL
 * https://www.domainsatretail.com/blog/security/simplest-way-use-ssl-certificates-amazon-ec2-ubuntu-server/
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04
 * https://www.youtube.com/watch?v=BzdX1C0ANig
+* https://www.domainsatretail.com/blog/security/simplest-way-use-ssl-certificates-amazon-ec2-ubuntu-server/
 * https://stackoverflow.com/questions/11621053/redirect-http-to-https-on-default-virtual-host-without-servername
 
 ## Service Workers
