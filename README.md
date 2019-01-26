@@ -36,6 +36,12 @@ Useful web links
 ### Apache / Ubuntu / LAMP
 * https://howtoubuntu.org/how-to-install-lamp-on-ubuntu
 
+### NGINX / LEMP
+* https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-in-ubuntu-16-04
+* https://medium.com/@nishankjaintdk/setting-up-a-node-js-app-on-a-linux-ami-on-an-aws-ec2-instance-with-nginx-59cbc1bcc68c
+* https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04
+
+
 ## SSL
 * https://www.domainsatretail.com/blog/security/simplest-way-use-ssl-certificates-amazon-ec2-ubuntu-server/
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04
