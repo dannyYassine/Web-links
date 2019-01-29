@@ -41,6 +41,8 @@ Useful web links
 * https://medium.com/@nishankjaintdk/setting-up-a-node-js-app-on-a-linux-ami-on-an-aws-ec2-instance-with-nginx-59cbc1bcc68c
 * https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04
 
+### Vagrant
+* https://blog.frankdejonge.nl/nginx-vagrant-load-balancing/
 
 ## SSL
 * https://www.domainsatretail.com/blog/security/simplest-way-use-ssl-certificates-amazon-ec2-ubuntu-server/
