@@ -20,6 +20,9 @@ Useful web links
 * https://blog.digitalocean.com/horizontally-scaling-php-applications/
 * https://www.slideshare.net/e.zimuel/how-to-scale-php-applications
 
+## Xdebug
+* https://www.youtube.com/watch?v=iSSjeelN5NU
+
 ## State Management
 * https://scotch.io/tutorials/get-angular-1-features-in-angular-2#global-communication-with-services
 * https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/
