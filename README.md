@@ -23,6 +23,9 @@ Useful web links
 ## Xdebug
 * https://www.youtube.com/watch?v=iSSjeelN5NU
 
+* run `php --init` to locate the xdebug settings
+* if running a PHP Swoole server, you need to restart the server to catch new breakpoints
+
 ## State Management
 * https://scotch.io/tutorials/get-angular-1-features-in-angular-2#global-communication-with-services
 * https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/
