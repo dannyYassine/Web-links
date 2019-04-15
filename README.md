@@ -74,6 +74,12 @@ Useful web links
 * http://nightwatchjs.org/
 * https://www.cypress.io/
 
+## Docker
+* https://docs.docker.com/
+* https://aws.amazon.com/getting-started/tutorials/deploy-docker-containers/
+* https://medium.com/lucjuggery/docker-in-development-with-nodemon-d500366e74df
+
+
 ## External ressources
 * http://codingheroes.io/resources/
 * https://onepagelove.com/
