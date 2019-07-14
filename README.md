@@ -17,6 +17,7 @@ Useful web links
 
 ## Node.js
 * https://www.codementor.io/mattgoldspink/nodejs-best-practices-du1086jja
+* https://medium.com/iquii/good-practices-for-high-performance-and-scalable-node-js-applications-part-1-3-bb06b6204197
 
 ## PHP
 * http://www.phptherightway.com/#mysql_extension
