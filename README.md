@@ -71,6 +71,7 @@ Useful web links
 * https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
 * https://www.sitepoint.com/building-angular-1-5-components/
 * https://filipbech.github.io/2015/07/Non-singleton-service-instances-in-angular/
+* Hexagonal (https://medium.com/we-are-madewithlove/hexagonal-architecture-demystified-fca986a85b20)
 
 ## Javascript Testing
 * https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
