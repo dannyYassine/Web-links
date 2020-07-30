@@ -54,6 +54,9 @@ Useful web links
 ### Vagrant
 * https://blog.frankdejonge.nl/nginx-vagrant-load-balancing/
 
+## Unix
+* https://medium.com/better-programming/how-unix-works-everything-you-were-too-afraid-to-ask-f8396aeb2763
+
 ## SSL
 * https://www.domainsatretail.com/blog/security/simplest-way-use-ssl-certificates-amazon-ec2-ubuntu-server/
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04
