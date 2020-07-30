@@ -107,6 +107,10 @@ https://ultimateangular.com/
 * https://expo.io/
 * https://www.decoide.org/
 
+## Mobile apps with Vue
+* https://nativescript.org/
+* https://vue-native.io/
+
 ## Tools
 * https://flaviocopes.com/chrome-devtools-tips/
 
