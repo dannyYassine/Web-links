@@ -81,6 +81,10 @@ Useful web links
 * Hexagonal (https://medium.com/we-are-madewithlove/hexagonal-architecture-demystified-fca986a85b20)
 * https://martinfowler.com/bliki/PresentationDomainDataLayering.html
 
+## Algorithms
+* (Top 10 algorithms) https://www.youtube.com/watch?v=r1MXwyiGi_U
+* https://www.algoexpert.io/
+
 ## Javascript Testing
 * https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
 * https://blog.codeship.com/mocha-js-chai-sinon-frontend-javascript-code-testing-tutorial/
