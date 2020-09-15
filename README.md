@@ -27,6 +27,10 @@ Useful web links
 * https://laravel-news.com/laravel-swoole
 * https://github.com/swoole/docker-swoole
 * https://github.com/swooletw/laravel-swoole
+### Laravel
+* https://laravel.com/docs/8.x
+* https://medium.com/@ibrunotome/a-domain-driven-design-ddd-approach-to-the-laravel-framework-18906b3dd473
+* https://oliverlundquist.com/2018/03/20/how-to-setup-ddd-in-laravel-app.html
 
 ## Xdebug
 * https://www.youtube.com/watch?v=iSSjeelN5NU
