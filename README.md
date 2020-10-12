@@ -180,3 +180,4 @@ https://ultimateangular.com/
 
 # BOOKS
 * https://railsware.com/blog/2017/11/23/best-node-js-books-to-master-the-technology/
+* https://leanpub.com/architecture-of-complex-web-applications
