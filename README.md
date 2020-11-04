@@ -23,6 +23,7 @@ Useful web links
 * http://www.phptherightway.com/#mysql_extension
 * https://blog.digitalocean.com/horizontally-scaling-php-applications/
 * https://www.slideshare.net/e.zimuel/how-to-scale-php-applications
+* https://www.youtube.com/watch?v=xTy9nDLICrI&ab_channel=DzTuts-FreeTutorials
 ### Swoole
 * https://laravel-news.com/laravel-swoole
 * https://github.com/swoole/docker-swoole
